@@ -1,2 +1,1 @@
-# Storefront starter by deco.cx
-+1
+# Storefront k8s
